@@ -1,0 +1,1000 @@
+{
+  "category": "anatomy-details",
+  "attributes": [
+    {
+      "id": "anatomy-details:breasts-small",
+      "baseText": "small breasts",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:breasts-perky",
+      "baseText": "perky breasts",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:breasts-medium",
+      "baseText": "medium breasts",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:breasts-large",
+      "baseText": "large breasts",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:breasts-massive",
+      "baseText": "massive breasts",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:breasts-huge",
+      "baseText": "huge breasts",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:breasts-enormous",
+      "baseText": "enormous breasts",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:breasts-gigantic",
+      "baseText": "gigantic breasts",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:breasts-overflowing",
+      "baseText": "overflowing breasts",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:breasts-pendulous",
+      "baseText": "pendulous breasts",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:breasts-sagging",
+      "baseText": "sagging breasts",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:breasts-firm",
+      "baseText": "firm breasts",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:breasts-soft",
+      "baseText": "soft breasts",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:breasts-lactating",
+      "baseText": "lactating breasts",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:breasts-milky-leaking",
+      "baseText": "milky breasts leaking",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:breasts-swollen",
+      "baseText": "swollen breasts",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:breasts-puffy-areola",
+      "baseText": "puffy areola",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:breasts-large-areola",
+      "baseText": "large areola",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:breasts-dark-areola",
+      "baseText": "dark areola",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:breasts-pink-nipples",
+      "baseText": "pink nipples",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:breasts-erect-nipples",
+      "baseText": "erect nipples",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:breasts-pierced-nipples",
+      "baseText": "pierced nipples",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:breasts-inverted-nipples",
+      "baseText": "inverted nipples",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:breasts-sensitive-nipples",
+      "baseText": "sensitive nipples",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:hips-waist-slim-waist",
+      "baseText": "slim waist",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:hips-waist-toned-waist",
+      "baseText": "toned waist",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:hips-waist-hourglass-figure",
+      "baseText": "hourglass figure",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:hips-waist-narrow-waist",
+      "baseText": "narrow waist",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:hips-waist-wide-hips",
+      "baseText": "wide hips",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:hips-waist-child-bearing-hips",
+      "baseText": "child-bearing hips",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:hips-waist-curvaceous-hips",
+      "baseText": "curvaceous hips",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:hips-waist-thick-hips",
+      "baseText": "thick hips",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:hips-waist-flared-hips",
+      "baseText": "flared hips",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:hips-waist-exaggerated-hip-to-waist-ratio",
+      "baseText": "exaggerated hip-to-waist ratio",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:buttocks-small-ass",
+      "baseText": "small ass",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:buttocks-toned-ass",
+      "baseText": "toned ass",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:buttocks-round-ass",
+      "baseText": "round ass",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:buttocks-plump-ass",
+      "baseText": "plump ass",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:buttocks-thick-ass",
+      "baseText": "thick ass",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:buttocks-huge-ass",
+      "baseText": "huge ass",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:buttocks-bubble-butt",
+      "baseText": "bubble butt",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:buttocks-jiggly-buttocks",
+      "baseText": "jiggly buttocks",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:buttocks-heart-shaped-ass",
+      "baseText": "heart-shaped ass",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:buttocks-firm-buttocks",
+      "baseText": "firm buttocks",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:buttocks-soft-buttocks",
+      "baseText": "soft buttocks",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:buttocks-spankable-ass",
+      "baseText": "spankable ass",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:buttocks-cellulite-dimples",
+      "baseText": "cellulite dimples",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:buttocks-anal-details-visible",
+      "baseText": "anal details visible",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:thighs-legs-slender-legs",
+      "baseText": "slender legs",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:thighs-legs-toned-legs",
+      "baseText": "toned legs",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:thighs-legs-athletic-thighs",
+      "baseText": "athletic thighs",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:thighs-legs-thick-thighs",
+      "baseText": "thick thighs",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:thighs-legs-thunder-thighs",
+      "baseText": "thunder thighs",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:thighs-legs-gap-between-thighs",
+      "baseText": "gap between thighs",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:thighs-legs-no-thigh-gap",
+      "baseText": "no thigh gap",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:thighs-legs-muscular-calves",
+      "baseText": "muscular calves",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:thighs-legs-long-legs",
+      "baseText": "long legs",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:thighs-legs-short-legs",
+      "baseText": "short legs",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:thighs-legs-fishnet-covered-thighs",
+      "baseText": "fishnet-covered thighs",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:thighs-legs-stockings-with-garters",
+      "baseText": "stockings with garters",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:penis-small-penis",
+      "baseText": "small penis",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:penis-average-penis",
+      "baseText": "average penis",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:penis-large-penis",
+      "baseText": "large penis",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:penis-huge-penis",
+      "baseText": "huge penis",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:penis-enormous-penis",
+      "baseText": "enormous penis",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:penis-veiny-cock",
+      "baseText": "veiny cock",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:penis-thick-shaft",
+      "baseText": "thick shaft",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:penis-long-foreskin",
+      "baseText": "long foreskin",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:penis-circumcised",
+      "baseText": "circumcised",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:penis-uncut-foreskin",
+      "baseText": "uncut foreskin",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:penis-curved-upward",
+      "baseText": "curved upward",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:penis-straight-erection",
+      "baseText": "straight erection",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:penis-throbbing-veins",
+      "baseText": "throbbing veins",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:penis-large-penis-head",
+      "baseText": "large penis head",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:penis-precum-dripping",
+      "baseText": "precum dripping",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:penis-heavy-balls",
+      "baseText": "heavy balls",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:penis-hanging-balls",
+      "baseText": "hanging balls",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:penis-shaved-pubic-area",
+      "baseText": "shaved pubic area",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:penis-bushy-pubic-hair",
+      "baseText": "bushy pubic hair",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:vagina-labia-tight-pussy",
+      "baseText": "tight pussy",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:vagina-labia-virgin-like-entrance",
+      "baseText": "virgin-like entrance",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:vagina-labia-puffy-labia",
+      "baseText": "puffy labia",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:vagina-labia-swollen-labia",
+      "baseText": "swollen labia",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:vagina-labia-large-labia-minora",
+      "baseText": "large labia minora",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:vagina-labia-small-labia",
+      "baseText": "small labia",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:vagina-labia-outie-vagina",
+      "baseText": "outie vagina",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:vagina-labia-innie-vagina",
+      "baseText": "innie vagina",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:vagina-labia-prominent-clit",
+      "baseText": "prominent clit",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:vagina-labia-swollen-clit",
+      "baseText": "swollen clit",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:vagina-labia-erect-clitoris",
+      "baseText": "erect clitoris",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:vagina-labia-pierced-clit",
+      "baseText": "pierced clit",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:vagina-labia-wet-and-glistening",
+      "baseText": "wet and glistening",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:vagina-labia-dripping-arousal",
+      "baseText": "dripping arousal",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:vagina-labia-spread-labia",
+      "baseText": "spread labia",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:vagina-labia-shaved-smooth",
+      "baseText": "shaved smooth",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:vagina-labia-landing-strip",
+      "baseText": "landing strip",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:vagina-labia-full-bush",
+      "baseText": "full bush",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:anal-tight-anus",
+      "baseText": "tight anus",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:anal-puckered-hole",
+      "baseText": "puckered hole",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:anal-slightly-gaping-anus",
+      "baseText": "slightly gaping anus",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:anal-anal-gape",
+      "baseText": "anal gape",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:anal-clean-shaven-anus",
+      "baseText": "clean-shaven anus",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:anal-anal-wink",
+      "baseText": "anal wink",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:anal-plugged-with-toy",
+      "baseText": "plugged with toy",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:anal-anal-beads-visible",
+      "baseText": "anal beads visible",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:body-type-petite-frame",
+      "baseText": "petite frame",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:body-type-slender-build",
+      "baseText": "slender build",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:body-type-athletic-build",
+      "baseText": "athletic build",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:body-type-curvy-figure",
+      "baseText": "curvy figure",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:body-type-voluptuous-body",
+      "baseText": "voluptuous body",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:body-type-thick-and-curvy",
+      "baseText": "thick and curvy",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:body-type-bbw",
+      "baseText": "BBW (big beautiful woman)",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:body-type-muscular-physique",
+      "baseText": "muscular physique",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:body-type-toned-abs",
+      "baseText": "toned abs",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:body-type-soft-belly",
+      "baseText": "soft belly",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:body-type-chubby-tummy",
+      "baseText": "chubby tummy",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:body-type-pregnant-belly",
+      "baseText": "pregnant belly",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:body-type-hyper-proportions",
+      "baseText": "hyper proportions",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:body-type-exaggerated-curves",
+      "baseText": "exaggerated curves",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:skin-surface-smooth-skin",
+      "baseText": "smooth skin",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:skin-surface-oiled-skin",
+      "baseText": "oiled skin",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:skin-surface-glistening-sweat",
+      "baseText": "glistening sweat",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:skin-surface-shiny-latex-skin",
+      "baseText": "shiny latex skin",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:skin-surface-freckled-body",
+      "baseText": "freckled body",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:skin-surface-tan-lines",
+      "baseText": "tan lines",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:skin-surface-pale-skin",
+      "baseText": "pale skin",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:skin-surface-flushed-skin",
+      "baseText": "flushed skin",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:skin-surface-blushing-cheeks",
+      "baseText": "blushing cheeks",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:skin-surface-goosebumps",
+      "baseText": "goosebumps",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:skin-surface-stretch-marks",
+      "baseText": "stretch marks",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:skin-surface-tattoos-covering-body",
+      "baseText": "tattoos covering body",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:skin-surface-body-piercings",
+      "baseText": "body piercings",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:pubic-hair-completely-shaved",
+      "baseText": "completely shaved",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:pubic-hair-smooth-and-bare",
+      "baseText": "smooth and bare",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:pubic-hair-trimmed-neat",
+      "baseText": "trimmed neat",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:pubic-hair-landing-strip",
+      "baseText": "landing strip",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:pubic-hair-small-patch",
+      "baseText": "small patch",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:pubic-hair-heart-shaped-bush",
+      "baseText": "heart-shaped bush",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:pubic-hair-full-natural-bush",
+      "baseText": "full natural bush",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:pubic-hair-bushy-pubic-hair",
+      "baseText": "bushy pubic hair",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:pubic-hair-colored-pubic-hair",
+      "baseText": "colored pubic hair",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    },
+    {
+      "id": "anatomy-details:pubic-hair-waxed-smooth",
+      "baseText": "waxed smooth",
+      "semanticPriority": 95,
+      "isNegative": false,
+      "conflictsWith": []
+    }
+  ]
+}
+
