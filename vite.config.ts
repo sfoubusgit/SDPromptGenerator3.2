@@ -10,7 +10,7 @@ export default defineConfig(({ mode }) => {
   // Set BASE_PATH environment variable when building for GitHub Pages
   // Default to '/' for local development and root domain deployments
   // For production builds, default to GitHub Pages base path
-  const basePath = process.env.BASE_PATH || (mode === 'production' ? '/sd_prompt_generator_v3.2/' : '/')
+  const basePath = process.env.BASE_PATH || (mode === 'production' ? '/SDPromptGenerator3.2/' : '/')
   
   return {
     plugins: [react()],
