@@ -1,0 +1,8 @@
+"# sd_prompt_generator_v3.2" 
+"# sd_prompt_generator_v3.2" 
+"# sd_prompt_generator_v3.2" 
+"# sd_prompt_generator_v3.2" 
+"# SDPromptGenerator3.2" 
+"# SDPromptGenerator3.2" 
+"# SDPromptGenerator3.2" 
+"# SDPromptGenerator3.2" 
